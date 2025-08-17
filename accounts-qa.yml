@@ -1,0 +1,13 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to SwiftPay accounts related local APIs "
+  contactDetails:
+    name: "Kehinde Abdul - QA Engineer"
+    email: "keyabdul@gmail.com"
+  onCallSupport:
+    - (+234) 555-1234
+    - (+234) 523-1345
+
+

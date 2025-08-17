@@ -1,0 +1,14 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to SwiftPay accounts related local APIs "
+  contactDetails:
+    name: "Motun Akeushola - Production Lead"
+    email: "oseinridwan5@gmail.com"
+  onCallSupport:
+    - (+234) 555-1234
+    - (+234) 523-1345
+
+
